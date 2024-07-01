@@ -3,14 +3,16 @@ body {
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+  color: pink;
+  text-align: center;
 }
 
 h2{
   color: cyan;
+  text-align: center;
 }
 
 p{
   color: green;
+  text-align: center;
 }
