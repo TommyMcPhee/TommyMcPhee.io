@@ -9,6 +9,13 @@ h1 {
   font-family: arial;
 }
 
+h2 {
+  color: fuchsia;
+  text-align: center;
+  font-size: 3em;
+  font-family: arial;
+}
+
 p {
   color: green;
   text-align: center;
