@@ -1,16 +1,16 @@
 body {
   background-color: black;
-  font-size: 48;
+  font-size: 5em;
 }
 
 h1 {
   color: Fuchsia;
   text-align: center;
-  font-size: 24;
+  font-size: 2em;
 }
 
 p {
   color: green;
   text-align: center;
-  font-size: 24;
+  font-size: 2em;
 }
