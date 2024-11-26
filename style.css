@@ -26,6 +26,6 @@ p {
 }
 
 img {
-  max-height: 50%;
+  max-height: 200px;
   max-width: auto;
 }
