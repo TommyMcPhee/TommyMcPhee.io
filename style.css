@@ -27,5 +27,5 @@ p {
 
 img {
   max-height: 200px;
-  max-width: auto;
+  width: auto;
 }
