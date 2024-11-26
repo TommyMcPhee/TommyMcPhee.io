@@ -19,8 +19,13 @@ h2 {
 }
 
 p {
-  color: green;
+  color: chartreuse;
   text-align: center;
   font-size: 2em;
   font-family: arial;
+}
+
+img {
+  height: 50%;
+  width: auto;
 }
