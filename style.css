@@ -26,6 +26,6 @@ p {
 }
 
 img {
-  height: 50%;
-  width: auto;
+  max-height: 50%;
+  max-width: auto;
 }
